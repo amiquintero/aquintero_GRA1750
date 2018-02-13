@@ -1,0 +1,166 @@
+body{
+	padding:0;
+	margin:0;
+	background-color:white;
+	font-family:arial;
+	font:arial;
+}
+
+div{
+	padding:20px;
+	height:650px;
+	width:1024px;
+	background-color:#f5f5f5;
+	color:black;
+	position:relative;
+}
+
+#section01{
+	height:830px;
+}
+
+#section02{
+	background-color:white;
+	position:relative;
+	height:300px;
+}
+
+#section03{
+	background-color:white;
+	position:relative;
+	height:300px;
+}
+
+#section04{
+	background-color:white;
+	position:relative;
+	height:300px;
+}
+
+#section05{
+	background-color:white;
+	height:220px;
+}
+
+#section06{
+	position:relative;
+}
+
+#section07{
+	background-color:white;
+	height:300px;
+}
+
+#section08{
+	background-color:white;
+	height:330px;
+}
+
+#icon01{
+	padding:10px;
+	width:200px;
+	height:230px;
+	position:absolute;
+	left:165px;
+}
+
+#icon02{
+	padding:10px;
+	width:200px;
+	height:230px;
+	position: absolute;
+	left:420px;
+}
+
+#icon03{
+	padding:10px;
+	width:200px;
+	height:230px;
+	position: absolute;
+	left:675px;
+}
+
+.cintiq{
+	padding:10px;
+	height:200px;
+	width:580px;
+	background-color:white;
+	text-align: left;
+	top:45px;
+	left:440px;
+	position:absolute;
+}
+
+.header{
+	font-weight:bold;
+	font-size:20pt;
+}
+
+.copyrightinfo{
+	font-size:8pt;
+	color:gray;
+}
+
+img[alt="logo"]{
+	width:603.75px;
+	height:82.25px;
+	align-items:center
+}
+
+img[alt="cintiq13"]{
+	padding-left:70px;
+}
+
+img[alt="cintiq16"]{
+	padding-left:40px;
+}
+
+img[alt="pen"]{
+	width:350px;
+	height:301.253px;
+	padding-top:0px;
+	padding-left:20px;
+}
+
+img[alt="icons"]{
+	padding:45px;
+}
+
+img[alt="overview"]{
+	width:338.051px;
+	height:340.606px;
+}
+
+img[alt="products01"]{
+	width:480px;
+	height:320px;
+}
+
+img[alt="products02"]{
+	width:333.249px;
+	height:222.166px;
+}
+
+img[alt="staples"]{
+	padding:25px;
+	width:158.54px;
+	height:33.47px;
+}
+
+img[alt="walmart"]{
+	padding:10px;
+	width:249.495px;
+	height:65.881px;
+}
+
+img[alt="amazon"]{
+	padding:5px;
+	width:197.966px;
+	height:59.489px;
+}
+
+img[alt="bestbuy"]{
+	padding:10px;
+	width:115.909px;
+	height:79.861px;
+}
