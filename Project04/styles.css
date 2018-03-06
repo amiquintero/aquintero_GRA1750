@@ -1,0 +1,258 @@
+@font-face {
+    font-family: 'bebasregular';
+    src: url('bebas-webfont.woff2') format('woff2'),
+         url('bebas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	margin:0;
+	padding:0;
+	background-color:black;
+	color:white;
+	font-family:arial narrow;
+}
+
+#main{
+	margin:0;
+	padding:0;
+	width:1024px;
+}
+
+#background{
+	position:absolute;
+}
+
+img[alt="background"]{
+	width:1024px;
+	height:2595.95px;
+}
+
+#logo{
+	position:relative;
+	top:50px;
+	left:-300px;
+	width:300px;
+}
+
+img[alt="logo"]{
+	width:300px;
+	height:300px;
+}
+
+#section1{
+	width:600px;
+	height:350px;
+	float:right;
+	position:relative;
+	top:-315px;
+	right:30px;
+	text-align:left;
+	font-size:5.5em;
+	font-family: 'bebasregular';
+}
+
+#right{
+	text-align:right;
+	font-family:arial narrow;
+	font-weight:bold;
+	font-size:0.4em;
+	position:relative;
+	top:-90px;
+	right:50px; 
+}
+
+#section2{
+	width:1000px;
+	height:500px;
+	position:absolute;
+	font-family: 'bebasregular';
+}
+
+#ceremony{
+	position:relative;
+	font-size:80px;
+	top:5px;
+	left:15px;
+}
+
+#subline{
+	position:relative;
+	font-family:arial narrow;
+	font-weight:bold;
+	font-size:2em;
+	position:relative;
+	top:-30px;
+	left:10px;
+	width:800px;
+}
+
+.header1{
+	position:relative;
+	font-family: 'bebasregular';
+	color:black;
+	font-size:75px;
+	top:-58px;
+	left:-76px;
+}
+
+.header2{
+	position:relative;
+	font-family: 'bebasregular';
+	font-size:50px;
+	top:-140px;
+	left:14px;
+}
+
+.header3{
+	position:relative;
+	font-family: 'bebasregular';
+	color:black;
+	font-size:75px;
+	top:-58px;
+	left:-150px;
+}
+
+.header4{
+	position:relative;
+	font-family: 'bebasregular';
+	font-size:50px;
+	top:-140px;
+	left:153px;
+}
+
+.header5{
+	position:relative;
+	font-family: 'bebasregular';
+	color:black;
+	font-size:75px;
+	top:-58px;
+	left:-273px;
+}
+
+.header6{
+	position:relative;
+	font-family: 'bebasregular';
+	font-size:50px;
+	top:-140px;
+	left:203px;
+}
+
+.header7{
+	position:relative;
+	top:-27px;
+}
+
+.header8{
+	position:relative;
+	font-size:1.7em;
+	font-weight:bold;
+}
+
+.header9{
+	position:relative;
+	font-family: 'bebasregular';
+	font-size:4em;
+	text-align:left;
+	top:-70px;
+	left:80px;
+}
+
+#section3{
+	position:absolute;
+	width:1024px;
+	height:195px;
+	top:644px;
+}
+
+#section4{
+	position:absolute;
+	width:1024px;
+	height:195px;
+	top:880px;
+}
+
+#section5{
+	position:absolute;
+	width:1024px;
+	height:195px;
+	top:1130px;
+}
+
+#section6{
+	position:absolute;
+	width:1024px;
+	height:121px;
+	top:1374px;
+	font-size:40px;
+	font-weight:bold;
+}
+
+#section7{
+	position:absolute;
+	width:1024px;
+	height:500px;
+	top:1550px;
+	text-align:left;
+	font-size:2.3em;
+}
+
+#section8{
+	position:absolute;
+	width:1024px;
+	height:100px;
+	top:2050px;
+}
+
+#section9{
+	position:absolute;
+	width:1024px;
+	height:10px;
+	top:2530px;
+	color:black;
+	font-size:1.5em;
+}
+
+img[alt="beardymoose"]{
+	position:relative;
+	width:353.983px;
+	height:77.19px;
+	top:-60px;
+	left:-235px;
+}
+
+img[alt="bank"]{
+	position:relative;
+	width:257.286px;
+	height:114.957px;
+	bottom:50px;
+}
+
+img[alt="wwf"]{
+	position:relative;
+	width:84.435px;
+	height:125.217px;
+	bottom:50px;
+}
+
+img[alt="sunny"]{
+	position:relative;
+	width:191.027px;
+	height:133.719px;
+	bottom:50px;
+}
+
+img[alt="pizza"]{
+	position:relative;
+	width:139.773px;
+	height:132.946px;
+	bottom:50px;
+}
+
+img[alt="munch"]{
+	position:relative;
+	width:128.697px;
+	height:94.299px;
+	bottom:50px;
+}
