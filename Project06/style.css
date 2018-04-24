@@ -1,0 +1,169 @@
+@font-face {
+    font-family: 'roboto_slabregular';
+    src: url('robotoslab-regular-webfont.woff2') format('woff2'),
+         url('robotoslab-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+	margin:0;
+	padding:0;
+	position:relative;
+	font-family: 'roboto_slabregular';
+}
+
+table{
+	margin:0 auto;
+	width:768px;
+	padding:10px;
+	color:#E51636;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:link{
+	color:#E51636;
+}
+
+a:hover{
+	color:gray;
+}
+
+img[alt="logo"]{
+	width:156.997px;
+	height:70.894px;
+}
+
+img[alt="breakfast"]{
+	width:310.388px;
+	height:310.388px;
+}
+
+img[alt="entrees"]{
+	width:310.388px;
+	height:310.388px;
+}
+
+img[alt="sides"]{
+	width:310.388px;
+	height:310.388px;
+}
+
+img[alt="drinks"]{
+	width:310.388px;
+	height:310.388px;
+}
+
+#menusection{
+	position:relative;
+}
+
+#home{
+	color: white;
+	margin: 0 auto;
+	position: relative;
+	top: -171px;
+	font-size: 2em;
+}
+
+#menu{
+	text-align: left;
+	margin: 0 auto;
+	width: 768px;
+	color: #E51636;
+}
+
+.menutext{
+	position: relative;
+	left: 313px;
+	top: -300px;
+	width: 440px;
+}
+
+hr{
+	margin:0 auto;
+	align-content: center;
+	width:100%;
+}
+
+#eggsandwich{
+	margin:0 auto;
+	color:black;
+	height:330px;
+}
+
+#chickensandwich{
+	margin:0 auto;
+	color:black;
+	height:350px;
+}
+
+#fries{
+	margin:0 auto;
+	color:black;
+	height:330px;
+}
+
+#lemonade{
+	margin:0 auto;
+	color:black;
+	height:350px;
+}
+
+#aboutsection{
+	margin: 0 auto;
+}
+
+.pic{
+	width:336px;
+	height:290px;
+}
+
+#history{
+	margin: 0 auto;
+	width: 768px;
+	color: #E51636;
+}
+
+.text{
+	color:black;
+}
+
+#storiessection{
+	margin: 0 auto;
+}
+
+#stories{
+	margin: 0 auto;
+	width: 768px;
+	color: #E51636;
+}
+
+#locationssection{
+	margin: 0 auto;
+}
+
+#locations{
+	margin: 0 auto;
+	color: #E51636;
+	height: 500px;
+	width: 768px;
+}
+
+#lastsection{
+	margin: 0 auto;
+	width: 768px;
+	position: relative;
+	height: 100px;
+	font-size: small;
+}
+
+#map{
+	position:relative;
+	left:420px;
+	top:-440px;
+}
