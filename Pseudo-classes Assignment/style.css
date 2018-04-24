@@ -1,0 +1,45 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+div{
+	margin:0 auto;
+	padding:20px;
+}
+
+#container{
+	background-color:gray;
+	color:white;
+	height:580px;
+	width:920px;
+	text-align: center;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:focus{
+	color:black;
+}
+
+li{
+	list-style-type: none;
+}
+
+li:last-child{
+	color:green;
+}
+
+p:only-child{
+	font-family:sans-serif;
+}
+
+p:first-of-type{
+	color:yellow;
+}
+
+li:nth-last-of-type(3){
+	color:blue;
+}
